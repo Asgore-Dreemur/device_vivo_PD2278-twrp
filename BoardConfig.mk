@@ -72,7 +72,7 @@ BOARD_VNDK_VERSION := current
 BOARD_MOVE_RECOVERY_RESOURCES_TO_VENDOR_BOOT := true
 
 # Boot recovery ramdisk
-BOARD_USES_RECOVERY_AS_BOOT := true
+# BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Verified Boot
 BOARD_AVB_ENABLE := true
