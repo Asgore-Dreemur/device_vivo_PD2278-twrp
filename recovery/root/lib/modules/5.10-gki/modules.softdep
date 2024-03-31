@@ -1,0 +1,4 @@
+# Soft dependencies extracted from modules themselves.
+softdep sensors_class pre: acpm-mfd-bus i2c-exynos5
+softdep vr pre: ufs-mediatek-mod ufs-mediatek mtk-mmc
+softdep mt6855_dcm pre:mtk_dcm.ko

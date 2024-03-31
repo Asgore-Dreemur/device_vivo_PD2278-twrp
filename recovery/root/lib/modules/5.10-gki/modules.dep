@@ -1,0 +1,259 @@
+/lib/modules/5.10-gki/sm5109.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/sec.ko:
+/lib/modules/5.10-gki/mcupm.ko: /lib/modules/5.10-gki/mtk_tinysys_ipi.ko /lib/modules/5.10-gki/mtk_rpmsg_mbox.ko /lib/modules/5.10-gki/mtk-mbox.ko
+/lib/modules/5.10-gki/phy-mtk-tphy.ko:
+/lib/modules/5.10-gki/mtk-pmic-keys.ko: /lib/modules/5.10-gki/mtk-kpd.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/vfcs-smb1396.ko: /lib/modules/5.10-gki/vfcs-fchg-core.ko
+/lib/modules/5.10-gki/event_track.ko:
+/lib/modules/5.10-gki/cache-parity.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-pmic-wrap.ko:
+/lib/modules/5.10-gki/mtk-smi.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vfcs-bq25980.ko: /lib/modules/5.10-gki/vfcs-fchg-core.ko
+/lib/modules/5.10-gki/device-apc-common.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/clk-mt6855-img.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vivo-wls-rx-p9415.ko: /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/aee_hangdet.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/i2c-mt65xx.ko:
+/lib/modules/5.10-gki/musb_main.ko: /lib/modules/5.10-gki/musb_hdrc.ko /lib/modules/5.10-gki/phy-generic.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_battery_oc_throttling.ko:
+/lib/modules/5.10-gki/cmdq-platform-mt6855.ko: /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/rpmb-mtk.ko: /lib/modules/5.10-gki/mcDrvModule.ko /lib/modules/5.10-gki/ufs-mediatek-mod.ko /lib/modules/5.10-gki/rpmb.ko /lib/modules/5.10-gki/ufs-mediatek-dbg.ko /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/board_temp.ko:
+/lib/modules/5.10-gki/leds-mtk.ko:
+/lib/modules/5.10-gki/clk-mt6855-imgsys2.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/rt5133-regulator.ko: /lib/modules/5.10-gki/extdev_io_class.ko
+/lib/modules/5.10-gki/vivo_board_info.ko:
+/lib/modules/5.10-gki/blk-enhance.ko:
+/lib/modules/5.10-gki/mmqos-common.ko: /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/reset-ti-syscon.ko:
+/lib/modules/5.10-gki/spmi-mtk-pmif.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mem_ddr_size.ko:
+/lib/modules/5.10-gki/panel-samsung-ana6705-cmd-fhdp.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/pinctrl-mtk-v2.ko:
+/lib/modules/5.10-gki/vcp_status.ko:
+/lib/modules/5.10-gki/panel-truly-nt35595-cmd.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/btif_drv.ko:
+/lib/modules/5.10-gki/clk-dbg-mt6855.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_chg_type_det.ko: /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko
+/lib/modules/5.10-gki/isee.ko: /lib/modules/5.10-gki/bootprof.ko
+/lib/modules/5.10-gki/mtk_iommu.ko: /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vivo-wls-charger-monitor.ko: /lib/modules/5.10-gki/vivo-wls-rx-p9415.ko /lib/modules/5.10-gki/vivo-wls-rx-cps4041.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mtk-socinfo.ko:
+/lib/modules/5.10-gki/mtk_pep20.ko: /lib/modules/5.10-gki/mtk_charger_framework.ko /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/mtk_charger_algorithm_class.ko /lib/modules/5.10-gki/charger_class.ko
+/lib/modules/5.10-gki/vivo_fmea.ko:
+/lib/modules/5.10-gki/mtk-mminfra-debug.ko: /lib/modules/5.10-gki/tinysys-scmi.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/monitor_hang.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mt6369-regulator.ko:
+/lib/modules/5.10-gki/vivo-chg-mcu.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/pwm-mtk-disp.ko:
+/lib/modules/5.10-gki/mtk-mmc-dbg.ko: /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-scpsys-bringup.ko:
+/lib/modules/5.10-gki/cpudvfs.ko:
+/lib/modules/5.10-gki/rtc-mt6685.ko:
+/lib/modules/5.10-gki/handshake_counter.ko:
+/lib/modules/5.10-gki/mtk-dvfsrc-helper.ko: /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/ccci_md_clk.ko: /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/clk-mt6855-mdp.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/ccmni.ko: /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko
+/lib/modules/5.10-gki/emi-mpu-hook-v1.ko: /lib/modules/5.10-gki/emi-mpu-v2.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/ccci_util_lib.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vivo_ts.ko: /lib/modules/5.10-gki/sensors_class.ko /lib/modules/5.10-gki/vivo_mb.ko /lib/modules/5.10-gki/event_track.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/panel_tm_nt36672e_vdo_pd2219.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/mtk-mmc-autok.ko:
+/lib/modules/5.10-gki/vivo-chg-rt9467.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/clk-mt6855-cam.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_tinysys_ipi.ko: /lib/modules/5.10-gki/mtk_rpmsg_mbox.ko /lib/modules/5.10-gki/mtk-mbox.ko
+/lib/modules/5.10-gki/clk-mt6855.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko: /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko
+/lib/modules/5.10-gki/mtk_dcm.ko:
+/lib/modules/5.10-gki/vfcs-pi.ko: /lib/modules/5.10-gki/vfcs-core.ko /lib/modules/5.10-gki/ufs-mediatek-mod.ko /lib/modules/5.10-gki/rpmb.ko /lib/modules/5.10-gki/ufs-mediatek-dbg.ko /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/connadp.ko:
+/lib/modules/5.10-gki/mtk-dvfsrc-regulator.ko: /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko
+/lib/modules/5.10-gki/clkbuf.ko:
+/lib/modules/5.10-gki/mtk-mbox-mailbox.ko:
+/lib/modules/5.10-gki/industrialio-triggered-buffer.ko: /lib/modules/5.10-gki/kfifo_buf.ko
+/lib/modules/5.10-gki/panel-alpha-jdi-nt36672e-vdo-60hz.ko: /lib/modules/5.10-gki/rt4831a_drv.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko
+/lib/modules/5.10-gki/mt6375-adc.ko: /lib/modules/5.10-gki/industrialio-triggered-buffer.ko /lib/modules/5.10-gki/kfifo_buf.ko
+/lib/modules/5.10-gki/clk-mt6855-mmsys.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/logd_kernel.ko:
+/lib/modules/5.10-gki/clk-mt6855-bus.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-kpd.ko: /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/ccci_dpmaif.ko: /lib/modules/5.10-gki/ccci_ccif.ko /lib/modules/5.10-gki/ccci_md_all.ko /lib/modules/5.10-gki/mtk_pbm.ko /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/ccmni.ko /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko /lib/modules/5.10-gki/ccci_auxadc.ko /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/ccci_ccif.ko: /lib/modules/5.10-gki/ccci_md_all.ko /lib/modules/5.10-gki/mtk_pbm.ko /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/ccmni.ko /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko /lib/modules/5.10-gki/ccci_auxadc.ko /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/mt6359p_battery.ko: /lib/modules/5.10-gki/pmic_lbat_service.ko
+/lib/modules/5.10-gki/pinctrl-mtk-common-v2_debug.ko: /lib/modules/5.10-gki/pinctrl-mtk-v2.ko
+/lib/modules/5.10-gki/mtk_panel_ext.ko:
+/lib/modules/5.10-gki/rps_perf.ko:
+/lib/modules/5.10-gki/vivo-chg-charge.ko: /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/extcon-mtk-usb.ko: /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/meta.ko: /lib/modules/5.10-gki/bootprof.ko
+/lib/modules/5.10-gki/mmprofile.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/kfifo_buf.ko:
+/lib/modules/5.10-gki/mtk-spmi-pmic.ko: /lib/modules/5.10-gki/regmap-spmi.ko
+/lib/modules/5.10-gki/panel_hx_nt36672c_vdo_pd2278.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/emi.ko: /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/reboot-mode.ko:
+/lib/modules/5.10-gki/mtk-pm-domain-disable-unused.ko:
+/lib/modules/5.10-gki/mtk-smi-dbg.ko: /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mddp.ko: /lib/modules/5.10-gki/ccci_md_all.ko /lib/modules/5.10-gki/mtk_pbm.ko /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/ccmni.ko /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko /lib/modules/5.10-gki/ccci_auxadc.ko /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/mtk_slbc.ko:
+/lib/modules/5.10-gki/mt6375-battery.ko: /lib/modules/5.10-gki/vivo-chg-meter.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/vivo-chg-meter.ko: /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/pd_dbg_info.ko:
+/lib/modules/5.10-gki/tinysys-scmi.ko:
+/lib/modules/5.10-gki/mtk_rpmsg_mbox.ko: /lib/modules/5.10-gki/mtk-mbox.ko
+/lib/modules/5.10-gki/panel-tianma-r66451-cmd-120hz.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/rpmb.ko:
+/lib/modules/5.10-gki/pd-chk-mt6855.ko: /lib/modules/5.10-gki/clk-chk-mt6855.ko /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vivo-chg-bq2579x.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mtk-mbox.ko:
+/lib/modules/5.10-gki/mtk_pbm.ko: /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko
+/lib/modules/5.10-gki/mtk-scpsys-mt6855.ko: /lib/modules/5.10-gki/mtk-scpsys.ko
+/lib/modules/5.10-gki/leds-mtk-disp.ko: /lib/modules/5.10-gki/rt4831a_drv.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/iommu_debug.ko: /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_charger_framework.ko: /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/mtk_charger_algorithm_class.ko /lib/modules/5.10-gki/charger_class.ko
+/lib/modules/5.10-gki/vivo_bsp_engine.ko:
+/lib/modules/5.10-gki/vivo-chg-battery.ko: /lib/modules/5.10-gki/vivo-chg-meter.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mtk_wdt.ko:
+/lib/modules/5.10-gki/pidmap.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vfcs-sc8551.ko: /lib/modules/5.10-gki/vfcs-fchg-core.ko
+/lib/modules/5.10-gki/vfcs-sc8571.ko: /lib/modules/5.10-gki/vfcs-fchg-core.ko
+/lib/modules/5.10-gki/vivo-chg-bq25890h.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/panel-tianma-nt36672e-vdo-120hz-hfp.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/adapter_class.ko:
+/lib/modules/5.10-gki/sensors_class.ko:
+/lib/modules/5.10-gki/vfcs-core.ko: /lib/modules/5.10-gki/ufs-mediatek-mod.ko /lib/modules/5.10-gki/rpmb.ko /lib/modules/5.10-gki/ufs-mediatek-dbg.ko /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-spmi-pmic-adc.ko:
+/lib/modules/5.10-gki/syscon-reboot-mode.ko: /lib/modules/5.10-gki/reboot-mode.ko
+/lib/modules/5.10-gki/vkyber-iosched.ko:
+/lib/modules/5.10-gki/shrinker_proxy.ko:
+/lib/modules/5.10-gki/pmic_lbat_service.ko:
+/lib/modules/5.10-gki/powerhal_cpu_ctrl.ko:
+/lib/modules/5.10-gki/mtk_charger_algorithm_class.ko:
+/lib/modules/5.10-gki/mt6685-core.ko: /lib/modules/5.10-gki/regmap-spmi.ko
+/lib/modules/5.10-gki/vivo_rsc.ko:
+/lib/modules/5.10-gki/aee_aed.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/teeperf.ko:
+/lib/modules/5.10-gki/vivo-chg-mcu-db.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/spi-mt65xx.ko:
+/lib/modules/5.10-gki/clk-mt6855-vcodec.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/leds-vivo.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/mtk-uart-apdma.ko:
+/lib/modules/5.10-gki/vivo-chg-bq25601d.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/clk-mt6855-adsp.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-cqdma.ko:
+/lib/modules/5.10-gki/extdev_io_class.ko:
+/lib/modules/5.10-gki/mtk_pep.ko: /lib/modules/5.10-gki/mtk_charger_framework.ko /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/mtk_charger_algorithm_class.ko /lib/modules/5.10-gki/charger_class.ko
+/lib/modules/5.10-gki/vivo-wls-rx-cps4041.ko: /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mtk-mminfra-imax.ko: /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/pinctrl-mt6855.ko: /lib/modules/5.10-gki/pinctrl-mtk-v2.ko
+/lib/modules/5.10-gki/log_store.ko:
+/lib/modules/5.10-gki/mt6375.ko:
+/lib/modules/5.10-gki/clk-fmeter-mt6855.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/clk-chk-mt6855.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mediatek-drm.ko: /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/vivo-chg-cms.ko: /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/charger_class.ko:
+/lib/modules/5.10-gki/phy-mtk-ufs.ko:
+/lib/modules/5.10-gki/panel-samsung-ana6705-cmd.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/wmt_drv.ko: /lib/modules/5.10-gki/btif_drv.ko /lib/modules/5.10-gki/connadp.ko /lib/modules/5.10-gki/ccci_md_all.ko /lib/modules/5.10-gki/mtk_pbm.ko /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/ccmni.ko /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko /lib/modules/5.10-gki/ccci_auxadc.ko /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/panel-truly-td4330-cmd.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/tcpc_mt6375.ko: /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/panel-alpha-jdi-nt36672e-cphy-vdo.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/regulator-vibrator.ko:
+/lib/modules/5.10-gki/mtk-icc-core.ko:
+/lib/modules/5.10-gki/clk-disable-unused.ko:
+/lib/modules/5.10-gki/nvmem_mtk-devinfo.ko:
+/lib/modules/5.10-gki/leds-mtk-pwm.ko: /lib/modules/5.10-gki/leds-mtk.ko
+/lib/modules/5.10-gki/tcpc_class.ko: /lib/modules/5.10-gki/pd_dbg_info.ko
+/lib/modules/5.10-gki/mtk-dvfsrc.ko: /lib/modules/5.10-gki/mtk-scpsys.ko
+/lib/modules/5.10-gki/clk-common.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-dvfsrc-start.ko:
+/lib/modules/5.10-gki/ufs-mediatek-mod.ko: /lib/modules/5.10-gki/rpmb.ko /lib/modules/5.10-gki/ufs-mediatek-dbg.ko /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-scpsys.ko:
+/lib/modules/5.10-gki/ufs-mediatek-dbg.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/clk-mt6855-imgsys1.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/panel_hx_nt36672c_vdo_pd2219.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/iommu_secure.ko:
+/lib/modules/5.10-gki/emi-mpu.ko: /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/zsmalloc.ko:
+/lib/modules/5.10-gki/vivo-fg-bq28z610.ko: /lib/modules/5.10-gki/vivo-chg-meter.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/sec-rng.ko:
+/lib/modules/5.10-gki/mtk_pd_adapter.ko: /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko
+/lib/modules/5.10-gki/mt6375-charger.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/charger_class.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mtk_printk_ctrl.ko:
+/lib/modules/5.10-gki/vivo-chg-fuel_summary.ko: /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/ccci_md_all.ko: /lib/modules/5.10-gki/mtk_pbm.ko /lib/modules/5.10-gki/mtk_mdpm.ko /lib/modules/5.10-gki/mtk_dynamic_loading_throttling.ko /lib/modules/5.10-gki/mtk_low_battery_throttling.ko /lib/modules/5.10-gki/pmic_lbat_service.ko /lib/modules/5.10-gki/ccmni.ko /lib/modules/5.10-gki/handshake_counter.ko /lib/modules/5.10-gki/rps_perf.ko /lib/modules/5.10-gki/ccci_auxadc.ko /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/vivo_mb.ko: /lib/modules/5.10-gki/event_track.ko
+/lib/modules/5.10-gki/panel_tm_ili7807s_vdo_pd2278.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/panel-alpha-jdi-nt36672e-vdo-120hz-hfp.ko: /lib/modules/5.10-gki/rt4831a_drv.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko
+/lib/modules/5.10-gki/cfg80211.ko:
+/lib/modules/5.10-gki/vr.ko:
+/lib/modules/5.10-gki/system_heap.ko:
+/lib/modules/5.10-gki/mtk_pep40.ko: /lib/modules/5.10-gki/mtk_charger_framework.ko /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/mtk_charger_algorithm_class.ko /lib/modules/5.10-gki/charger_class.ko
+/lib/modules/5.10-gki/aee_rs.ko: /lib/modules/5.10-gki/mediatek-drm.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk_disp_notify.ko /lib/modules/5.10-gki/mtk_panel_ext.ko /lib/modules/5.10-gki/leds-mtk.ko /lib/modules/5.10-gki/clkbuf.ko /lib/modules/5.10-gki/mtk-mml.ko /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/musb_hdrc.ko: /lib/modules/5.10-gki/phy-generic.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/pem_driver.ko:
+/lib/modules/5.10-gki/vivo-chg-batid.ko: /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mt6375-auxadc.ko:
+/lib/modules/5.10-gki/ccci_rtc.ko: /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/irq-dbg.ko:
+/lib/modules/5.10-gki/panel-truly-td4330-vdo.ko: /lib/modules/5.10-gki/mtk_panel_ext.ko
+/lib/modules/5.10-gki/mtk-dvfsrc-devfreq.ko: /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko
+/lib/modules/5.10-gki/vfcs-fchg-core.ko:
+/lib/modules/5.10-gki/mtk_low_battery_throttling.ko: /lib/modules/5.10-gki/pmic_lbat_service.ko
+/lib/modules/5.10-gki/vfcs-ln8000.ko: /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/vfcs-fchg-core.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/8250_mtk.ko:
+/lib/modules/5.10-gki/rt4831a_drv.ko: /lib/modules/5.10-gki/leds-mtk.ko
+/lib/modules/5.10-gki/device-apc-mt6855.ko: /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mkp.ko:
+/lib/modules/5.10-gki/mtk-mmc.ko: /lib/modules/5.10-gki/rpmb-mtk.ko /lib/modules/5.10-gki/mcDrvModule.ko /lib/modules/5.10-gki/mtk-mmc-dbg.ko /lib/modules/5.10-gki/cqhci.ko /lib/modules/5.10-gki/mtk-mmc-autok.ko /lib/modules/5.10-gki/ufs-mediatek-mod.ko /lib/modules/5.10-gki/rpmb.ko /lib/modules/5.10-gki/ufs-mediatek-dbg.ko /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_disp_notify.ko:
+/lib/modules/5.10-gki/rt_pd_manager.ko: /lib/modules/5.10-gki/charger_class.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko
+/lib/modules/5.10-gki/vivo-swconv-max77932.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/mt6685-audclk.ko:
+/lib/modules/5.10-gki/phy-generic.ko:
+/lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko: /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/musb_boost.ko: /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko /lib/modules/5.10-gki/musb_hdrc.ko /lib/modules/5.10-gki/phy-generic.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mmqos-mt6855.ko: /lib/modules/5.10-gki/mmqos-common.ko /lib/modules/5.10-gki/mtk-mmdvfs-debug.ko /lib/modules/5.10-gki/mtk-mmdvfs.ko /lib/modules/5.10-gki/mtk_dramc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/cqhci.ko: /lib/modules/5.10-gki/blocktag.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/regmap-spmi.ko:
+/lib/modules/5.10-gki/dbgtop-drm.ko:
+/lib/modules/5.10-gki/ccci_auxadc.ko: /lib/modules/5.10-gki/ccci_util_lib.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/tcpci_late_sync.ko: /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko
+/lib/modules/5.10-gki/mcDrvModule.ko:
+/lib/modules/5.10-gki/mtk-mmdvfs.ko: /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk-mml.ko: /lib/modules/5.10-gki/system_heap.ko /lib/modules/5.10-gki/mtk_sync.ko /lib/modules/5.10-gki/mtk_slbc.ko /lib/modules/5.10-gki/mtk-icc-core.ko /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/rt6160-regulator.ko:
+/lib/modules/5.10-gki/clk-mt6855-cam_m.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/vivo-chg-switch-mp2762.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/vivo_board_info_detect.ko:
+/lib/modules/5.10-gki/arm_dsu_pmu.ko:
+/lib/modules/5.10-gki/mtk_sync.ko:
+/lib/modules/5.10-gki/clk-bringup.ko:
+/lib/modules/5.10-gki/mt6855_dcm.ko: /lib/modules/5.10-gki/mtk_dcm.ko
+/lib/modules/5.10-gki/mtk_pd_charging.ko: /lib/modules/5.10-gki/mtk_charger_framework.ko /lib/modules/5.10-gki/adapter_class.ko /lib/modules/5.10-gki/mtk_charger_algorithm_class.ko /lib/modules/5.10-gki/charger_class.ko
+/lib/modules/5.10-gki/spmi-mtk-mpu.ko:
+/lib/modules/5.10-gki/bootprof.ko:
+/lib/modules/5.10-gki/emi-mpu-v2.ko: /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mtk_dramc.ko:
+/lib/modules/5.10-gki/mtk-swpm-perf-arm-pmu.ko:
+/lib/modules/5.10-gki/mtk-emi.ko: /lib/modules/5.10-gki/mtk-dvfsrc.ko /lib/modules/5.10-gki/mtk-scpsys.ko
+/lib/modules/5.10-gki/mtk-mmdvfs-debug.ko:
+/lib/modules/5.10-gki/mrdump.ko:
+/lib/modules/5.10-gki/clk-mt6855-peri.ko: /lib/modules/5.10-gki/clk-common.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/iommu_test.ko:
+/lib/modules/5.10-gki/vivo-swconv-sc8510.ko: /lib/modules/5.10-gki/vivo-chg-charge.ko /lib/modules/5.10-gki/tcpc_mt6375.ko /lib/modules/5.10-gki/vivo-chg-fuel_summary.ko /lib/modules/5.10-gki/vivo-chg-psl.ko /lib/modules/5.10-gki/tcpc_class.ko /lib/modules/5.10-gki/pd_dbg_info.ko /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/connfem.ko:
+/lib/modules/5.10-gki/blocktag.ko: /lib/modules/5.10-gki/mrdump.ko
+/lib/modules/5.10-gki/mediatek-cpufreq-hw.ko:
+/lib/modules/5.10-gki/load_track.ko:
+/lib/modules/5.10-gki/zram.ko: /lib/modules/5.10-gki/zsmalloc.ko
+/lib/modules/5.10-gki/vivo-chg-psl.ko: /lib/modules/5.10-gki/vivo_bsp_engine.ko
+/lib/modules/5.10-gki/cmdq_helper_inf.ko: /lib/modules/5.10-gki/mtk-cmdq-drv-ext.ko /lib/modules/5.10-gki/device-apc-common.ko /lib/modules/5.10-gki/mtk-smi-dbg.ko /lib/modules/5.10-gki/mtk-smi.ko /lib/modules/5.10-gki/emi.ko /lib/modules/5.10-gki/emi-mpu.ko /lib/modules/5.10-gki/vcp_status.ko /lib/modules/5.10-gki/iommu_debug.ko /lib/modules/5.10-gki/iommu_secure.ko /lib/modules/5.10-gki/mmprofile.ko /lib/modules/5.10-gki/aee_aed.ko /lib/modules/5.10-gki/mrdump.ko /lib/modules/5.10-gki/irq-dbg.ko
+/lib/modules/5.10-gki/mt6363-regulator.ko:
+/lib/modules/5.10-gki/vfcs-bq25970.ko: /lib/modules/5.10-gki/vfcs-fchg-core.ko
+/lib/modules/5.10-gki/mtk_mm_heap.ko:
+/lib/modules/5.10-gki/uload_ind.ko: /lib/modules/5.10-gki/load_track.ko
+/lib/modules/5.10-gki/mac80211.ko: /lib/modules/5.10-gki/cfg80211.ko
+/lib/modules/5.10-gki/mtk_mdpm.ko:
